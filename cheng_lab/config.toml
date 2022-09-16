@@ -1,0 +1,24 @@
+baseURL = 'https://MiloCheng17.cheng_lab.github.io/'
+languageCode = 'en-us'
+title = 'Cheng Lab'
+theme = "aether"
+
+[menu]
+  [[menu.main]]
+    identifier = "home" 
+    name = "HOME"
+    url = "/home"
+    weight = 10
+  
+  [[menu.main]]
+    identifier = "research"
+    name = "RESEARCH"
+    url = "/research"
+    weight = 10
+  
+  [[menu.main]]
+    identifier = "publications" 
+    name = "PUBLICATIONS"
+    url = "/publications"
+    weight = 10
+
